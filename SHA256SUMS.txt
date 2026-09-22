@@ -1,0 +1,2 @@
+95b82907b4ca38df66d6139d46ab72f49c1f79bda758b8e8a39c6b1dad695608  UK-VPN-for-Mac.dmg
+1a205fb95565b5f6cc3e0d044c4ae6bf95f43955f3d460b1d8d5174d51ada9c9  AmneziaVPN-macOS.pkg

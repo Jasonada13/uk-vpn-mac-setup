@@ -1,0 +1,10 @@
+*.vpn
+*.conf
+*.key
+*.pem
+*.pkg
+*.zip
+*.dmg
+*password*
+*handover*
+.DS_Store
